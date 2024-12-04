@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"name": "ble-scanner-with-requests",
+			"path": "."
+		},
+		{
+			"path": "../../../../Desktop/IoT/lab 4 code/lab 4 code/P2P_lora"
+		},
+		{
+			"path": "../../../../Desktop/IoT/lab 4 code/lab 4 code/hello_lora"
+		},
+		{
+			"path": "../../../../Desktop/IoT/lab 4 code/lab 4 code/LoRaWAN"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.embeddedhtml": "html",
+			"*.rmd": "markdown",
+			"Songs!": "cpp",
+			"**/.rmv/config/*.json": "jsonc",
+			"new": "cpp",
+			"*.tcc": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp"
+		},
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/Thumbs.db": true,
+			"**/.ruby-lsp": true,
+			"**/.rmv/catalog/**": true,
+			"*/_*": false
+		},
+		"r.lsp.promptToInstall": false
+	}
+}
